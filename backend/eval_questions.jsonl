@@ -1,0 +1,13 @@
+{"question": "What is the income limit for AICTE Pragati?", "expected_scheme": "aicte_pragati", "category": "basic"}
+{"question": "what is the income limit for pragathi", "expected_scheme": "aicte_pragati", "category": "typo"}
+{"question": "Which scholarship requires the applicant to be female?", "expected_scheme": "aicte_pragati", "category": "exact_keyword"}
+{"question": "Is there support for differently-abled engineering students?", "expected_scheme": "aicte_saksham", "category": "rephrasing"}
+{"question": "scholarship for differently-abled", "expected_scheme": "aicte_saksham", "category": "rephrasing_short"}
+{"question": "Is AICTE Saksham only for girls?", "expected_scheme": "aicte_saksham", "category": "hard_negative"}
+{"question": "Which scheme allows lateral entry in the 2nd year?", "expected_scheme": "aicte_saksham", "category": "exact_keyword_hard"}
+{"question": "What is the Central Sector Scheme of Scholarships?", "expected_scheme": "csss", "category": "basic"}
+{"question": "What is the income ceiling for Merit-cum-Means scholarship?", "expected_scheme": "mcm", "category": "basic"}
+{"question": "What benefits does the Post-Matric scholarship for SC students provide?", "expected_scheme": "post_matric_sc", "category": "basic"}
+{"question": "What are the eligibility criteria for Post-Matric ST scholarship?", "expected_scheme": "post_matric_st", "category": "basic"}
+{"question": "Tell me about Post-Matric scholarship for OBC students", "expected_scheme": "post_matric_obc", "category": "basic"}
+{"question": "What is the Post-Matric scholarship for minority students?", "expected_scheme": "post_matric_minority", "category": "basic"}

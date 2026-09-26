@@ -1,0 +1,22 @@
+# Secrets -- never commit real API keys
+backend/.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Vector database (large, regenerable from chunks.jsonl)
+backend/data/chroma_store/
+data/chroma_store/
+
+# Node / React frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# OS junk
+.DS_Store
